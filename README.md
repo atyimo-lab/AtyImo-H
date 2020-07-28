@@ -5,12 +5,13 @@
 
 Authors
 ==============
-Robespierre Pita and Clicia Pinto and Marcos Barreto and Spiros Denaxas
-1. FEDERAL UNIVERSITY OF BAHIA (UFBA), ATYIMOLAB (www.atyimolab.ufba.br)
-2. University College London, Denaxas Lab (www.denaxaslab.org)
+Clicia Pinto and Robespierre Pita and Marcos Barreto 
+FEDERAL UNIVERSITY OF BAHIA (UFBA), ATYIMOLAB (www.atyimolab.ufba.br)
 
 More information
 =================
+* Pinto, C., Dantas, R., Sena, S., Reis, S., Fiaccone, R., Amorim, L., ... & Barreto, M. (2017). [Accuracy of probabilistic linkage: The Brazilian 100 million cohort.] In Proc. Int. Conf. BIomed. Health Informat.
+
 * Pita R., Mendonça E., Reis S., Barreto M., Denaxas S. (2017) [A Machine Learning Trainable Model to Assess the Accuracy of Probabilistic Record Linkage.](https://link.springer.com/chapter/10.1007/978-3-319-64283-3_16) In: Bellatreche L., Chakravarthy S. (eds) Big Data Analytics and Knowledge Discovery. DaWaK 2017. Lecture Notes in Computer Science, vol 10440. Springer.
 
 * PITA, Robespierre; PINTO, Clicia; MELO, Pedro; Silva, Malu; BARRETO, Marcos; RASELLA, Davide. (2015) [A Spark-based workflow for probabilistic record linkage of healthcare data. Workshop on Algorithms and Systems for MapReduce and Beyond](http://ceur-ws.org/Vol-1330/EDBTICDT-WS2015-complete.pdf) (BeyondMR - EDBT/ICDT 2015), Brussels.
